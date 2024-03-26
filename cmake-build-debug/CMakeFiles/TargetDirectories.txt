@@ -1,0 +1,3 @@
+C:/Users/liorb/CLionProjects/HW1_094704 new/cmake-build-debug/CMakeFiles/HW1_094704_new.dir
+C:/Users/liorb/CLionProjects/HW1_094704 new/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liorb/CLionProjects/HW1_094704 new/cmake-build-debug/CMakeFiles/rebuild_cache.dir
